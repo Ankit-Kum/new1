@@ -5,3 +5,5 @@ now i wnat to change in the dbds file to show the diff command
 printt ("to understand the pull concept")
 
 print ("for fetch task")
+
+print ("new task")
