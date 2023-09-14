@@ -1,3 +1,5 @@
 hi i am dbda file
 
 now i wnat to change in the dbds file to show the diff command
+
+printt ("to understand the pull concept")
